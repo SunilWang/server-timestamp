@@ -1,0 +1,31 @@
+{
+  "name": "server-timestamp",
+  "version": "1.0.0",
+  "description": "Create a middleware to add a server timestamp header in milliseconds. Use for Express",
+  "main": "index.js",
+  "keywords": [
+    "express",
+    "middleware",
+    "server",
+    "timestamp",
+    "server timestamp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunilWang/server-timestamp.git"
+  },
+  "files": [
+    "index.js"
+  ],
+  "author": {
+    "name": "Sunil Wang"
+  },
+  "devDependencies": {
+    "express": "*"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SunilWang/server-timestamp/issues"
+  },
+  "homepage": "https://github.com/SunilWang/server-timestamp#readme"
+}
